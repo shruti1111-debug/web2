@@ -1,0 +1,4 @@
+[submodule "abc/public"]
+	path = abc/public
+	url = https://github.com/shruti1111-debug/newsite.github.io.git
+	branch = main

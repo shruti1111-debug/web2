@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://newsite.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "ACM women"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -19,11 +19,11 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Women in Computing"
+author = "ACM"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "SRM"
+profilePicture = "images/logo.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -55,17 +55,17 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/groups/980527/"
 
 [[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/officialacmw"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fab fa-facebook"
+title = "facebook"
+url = "https://www.facebook.com/women.acm.org/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
@@ -92,7 +92,7 @@ url = "mailto:mail@alexbilz.com"
   name = "About"
   weight = 300
   identifier = "about"
-  url = "/about/"
+  url = "https://women.acm.org"
 
   [[menu.main]]
   name = "Contact"
